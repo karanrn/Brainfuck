@@ -1,6 +1,9 @@
 #Converts text provided by user into Brainfuck
 #Input can be anything in ASCII range
+import sys
 intext=raw_input("Enter your text:")
+#Redirects brainfuck code to sample.br
+sys.stdout = open('sample.br','w')
 limiter='+'*10
 print limiter
 print '[',
