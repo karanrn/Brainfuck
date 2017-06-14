@@ -1,5 +1,5 @@
 # Brainfuck
-Just try with so called minimal Turing complete Brainfuck
+Just try at so called minimal Turing complete Brainfuck
 
 # sample.br
 It prints 'Hello earth!'
